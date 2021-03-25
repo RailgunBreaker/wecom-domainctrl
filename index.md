@@ -22,7 +22,7 @@ DOCX版本<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/
 
 <a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/%E8%85%BE%E8%AE%AF%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf">**腾讯企业邮箱用户使用手册.pdf**</a>不遵循MIT License,版权所有者腾讯公司*
 
-如果需要更新可以<a href="https://github.com/RailgunBreaker/wecom-domainctrl/pulls">**pull request**</a> or [给我发邮件](mailto:admin@alansong.club)联系我更新
+如果需要更新可以<a href="https://github.com/RailgunBreaker/wecom-domainctrl/pulls">**pull request**</a> or <a href="mailto:admin@alansong.club">**给我发邮件**</a>联系我更新
 
 ©2021 H3ZMUN
 
