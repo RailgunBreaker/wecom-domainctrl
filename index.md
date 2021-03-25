@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/RailgunBreaker/wecom-domainctrl/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这个项目比较懒的结果emm，挂在GitHub上比较好玩所以就挂在GitHub上了。。。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+点击以下链接访问说明书的各个资源
 
-### Markdown
+MD版本 <a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/MD_%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%8F%8A%E5%9F%9F%E5%90%8D%E8%AF%B4%E6%98%8E%E4%B9%A6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%8C%E7%89%88V1.0.md">**MD_企业微信及域名说明书 正式发行版V1.0.md**</a>适合在GitHub上看
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PDF版本<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/PDF_%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%8F%8A%E5%9F%9F%E5%90%8D%E8%AF%B4%E6%98%8E%E4%B9%A6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%8C%E7%89%88V1.0%20.pdf">**PDF_企业微信及域名说明书 正式发行版V1.0.md**</a>
 
-```markdown
-Syntax highlighted code block
+DOCX版本<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/DOCX_%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%8F%8A%E5%9F%9F%E5%90%8D%E8%AF%B4%E6%98%8E%E4%B9%A6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%8C%E7%89%88V1.0%20.docx">**DOCX_企业微信及域名说明书 正式发行版V1.0.md**</a>
 
-# Header 1
-## Header 2
-### Header 3
+（MD版本适合在同性交友网站GitHub上查看，不过图片被上传没了，看图片的话请看docx,PDF文件)
 
-- Bulleted
-- List
+域名的全部解析记录文件<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/dnspod_h3zmun.club_2021-03-22_21-05-38.xls">**dnspod_h3zmun.club_2021-03-22_21-05-38.xls**</a>
 
-1. Numbered
-2. List
+换届时导入到域名解析即可。
 
-**Bold** and _Italic_ and `Code` text
+压缩包文件<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/h3zmun.club.zip">**h3zmun.zip**</a>
 
-[Link](url) and ![Image](src)
-```
+这是我白嫖的SSL证书，设置https的话upload这个就OK
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://github.com/RailgunBreaker/wecom-domainctrl/blob/main/%E8%85%BE%E8%AE%AF%E4%BC%81%E4%B8%9A%E9%82%AE%E7%AE%B1%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf">**腾讯企业邮箱用户使用手册.pdf**</a>不遵循MIT License,版权所有者腾讯公司*
 
-### Jekyll Themes
+如果需要更新可以<a href="https://github.com/RailgunBreaker/wecom-domainctrl/pulls">**pull request**</a> or [给我发邮件](mailto:admin@alansong.club)联系我更新
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RailgunBreaker/wecom-domainctrl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+©2021 H3ZMUN
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
